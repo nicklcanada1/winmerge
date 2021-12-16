@@ -242,18 +242,18 @@ msgstr "&Nou"
 
 #, c-format
 msgid "&Text"
-msgstr ""
+msgstr "&Text"
 
 msgid "T&able"
-msgstr ""
+msgstr "T&ablou"
 
 #, c-format
 msgid "&Binary"
-msgstr ""
+msgstr "&Binar"
 
 #, c-format
 msgid "&Image"
-msgstr ""
+msgstr "&Imagine"
 
 #, c-format
 msgid "New (&3 panes)"
@@ -402,7 +402,7 @@ msgstr ""
 
 #, c-format
 msgid "&Translations"
-msgstr ""
+msgstr "&Traduceri"
 
 #, c-format
 msgid "C&onfiguration"
@@ -418,7 +418,7 @@ msgstr "&Despre WinMerge..."
 
 #, c-format
 msgid "&Read-only"
-msgstr ""
+msgstr "Numai-citi&re"
 
 #, c-format
 msgid "L&eft Read-only"
@@ -426,7 +426,7 @@ msgstr "Stânga numai-citir&e"
 
 #, c-format
 msgid "M&iddle Read-only"
-msgstr ""
+msgstr "M&ijloc numai-citire"
 
 #, c-format
 msgid "Ri&ght Read-only"
@@ -600,7 +600,7 @@ msgstr "&Salvare\tCtrl+S"
 
 #, c-format
 msgid "Sav&e"
-msgstr ""
+msgstr "Salvare"
 
 #, c-format
 msgid "Save &Left"
@@ -608,7 +608,7 @@ msgstr "Sa&lvare stânga"
 
 #, c-format
 msgid "Save &Middle"
-msgstr ""
+msgstr "Salvare &mijloc"
 
 #, c-format
 msgid "Save &Right"
@@ -616,19 +616,19 @@ msgstr "Salvare d&reapta"
 
 #, c-format
 msgid "Save &As"
-msgstr ""
+msgstr "Salvare c&a"
 
 #, c-format
 msgid "Save &Left As..."
-msgstr ""
+msgstr "Sa&lvare stânga ca..."
 
 #, c-format
 msgid "Save &Middle As..."
-msgstr ""
+msgstr "Salvare &mijloc ca..."
 
 #, c-format
 msgid "Save &Right As..."
-msgstr ""
+msgstr "Salvare d&reapta ca..."
 
 msgid "&Print...\tCtrl+P"
 msgstr "Ti&părire...\tCtrl+P"
@@ -669,7 +669,7 @@ msgstr "&Taie\tCtrl+X"
 
 #, c-format
 msgid "&Copy\tCtrl+C"
-msgstr "&Copie\tCtrl+C"
+msgstr "&Copiază\tCtrl+C"
 
 #, c-format
 msgid "&Paste\tCtrl+V"
